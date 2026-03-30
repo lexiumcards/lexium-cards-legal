@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last updated:** March 27, 2026
+**Last updated:** March 29, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -54,7 +54,7 @@
 
 4.1. The basic version of the App is provided free of charge.
 
-4.2. Premium features may be offered in the future through paid subscriptions. If and when Premium features become available, the pricing, scope, and subscription terms will be presented to you in the App before any purchase is made.
+4.2. Premium features ("Lexium Pro") are available through paid subscriptions. Premium features include dark theme, studio-quality text-to-speech voices, typing mode for study sessions, and all future Pro features. Pricing and subscription terms are presented to you in the App before any purchase is made.
 
 4.3. Payments for Premium features will be processed through the App Store or Google Play. Payment terms are subject to the respective store operator's terms and conditions.
 
@@ -79,9 +79,9 @@
 - Contains malware or any harmful code
 - Violates any applicable law or regulation
 
-5.4. We reserve the right to remove User Content that violates these Terms without prior notice.
+  5.4. We reserve the right to remove User Content that violates these Terms without prior notice.
 
-5.5. **Reporting illegal content.** If you believe that any content in the App is illegal or violates these Terms, you may report it by emailing lexiumcards@gmail.com. Your report should include a description of the content, why you believe it is illegal, and your contact information. We will review the report and take appropriate action without undue delay.
+  5.5. **Reporting illegal content.** If you believe that any content in the App is illegal or violates these Terms, you may report it by emailing lexiumcards@gmail.com. Your report should include a description of the content, why you believe it is illegal, and your contact information. We will review the report and take appropriate action without undue delay.
 
 ---
 
@@ -97,9 +97,9 @@
 - Create derivative works based on the App or its content
 - Remove or alter any copyright or proprietary notices
 
-6.3. Articles and reading materials provided in the App are created by or licensed to us. Unauthorized reproduction or distribution is prohibited.
+  6.3. Articles and reading materials provided in the App are created by or licensed to us. Unauthorized reproduction or distribution is prohibited.
 
-6.4. **IP infringement claims.** Should a third party claim that the App or your use of the App infringes their intellectual property rights, we are solely responsible for the investigation, defense, settlement, and discharge of any such claim. Store operators (Apple, Google) have no responsibility for IP infringement claims related to the App.
+  6.4. **IP infringement claims.** Should a third party claim that the App or your use of the App infringes their intellectual property rights, we are solely responsible for the investigation, defense, settlement, and discharge of any such claim. Store operators (Apple, Google) have no responsibility for IP infringement claims related to the App.
 
 ---
 
@@ -139,9 +139,9 @@
 - The results obtained from using the App (including translations and word analyses) will be accurate or reliable
 - The App will meet your specific requirements
 
-9.3. The App depends on third-party services (Supabase, Google APIs, Mixpanel, Sentry, etc.). We are not responsible for their availability, performance, or any changes they make to their services.
+  9.3. The App depends on third-party services (Supabase, Google APIs, Mixpanel, Sentry, etc.). We are not responsible for their availability, performance, or any changes they make to their services.
 
-9.4. If you are an EU consumer using paid Premium features, your statutory rights under applicable consumer protection laws (including the EU Digital Content Directive 2019/770) are not affected by this disclaimer. You retain all mandatory consumer rights provided by the law of your country of residence.
+  9.4. If you are an EU consumer using paid Premium features, your statutory rights under applicable consumer protection laws (including the EU Digital Content Directive 2019/770) are not affected by this disclaimer. You retain all mandatory consumer rights provided by the law of your country of residence.
 
 ---
 
@@ -154,9 +154,9 @@
 - Interruption of service
 - Any damages arising from your use of or inability to use the App
 
-10.2. Our total aggregate liability arising out of or relating to these Terms shall not exceed the amounts you have paid to us (if any) in the 12 months preceding the event giving rise to the claim.
+  10.2. Our total aggregate liability arising out of or relating to these Terms shall not exceed the amounts you have paid to us (if any) in the 12 months preceding the event giving rise to the claim.
 
-10.3. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law, including liability for fraud or gross negligence.
+  10.3. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under applicable law, including liability for fraud or gross negligence.
 
 ---
 
@@ -170,13 +170,13 @@
 - This action is irreversible
 - **Deleting your account does not automatically cancel active subscriptions.** You must cancel subscriptions separately through your App Store or Google Play subscription settings before deleting your account
 
-11.3. We may terminate your account if you:
+  11.3. We may terminate your account if you:
 
 - Violate these Terms, including Sections 5.3 and 8.1
 - Fail to pay subscription fees when due
 - Engage in fraudulent or unlawful activities
 
-11.4. Upon termination:
+  11.4. Upon termination:
 
 - Your license to use the App is immediately revoked
 - We may permanently delete all your data
