@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Use — Lexium Cards
+---
+
 # Terms of Use
 
 **Last updated:** March 29, 2026

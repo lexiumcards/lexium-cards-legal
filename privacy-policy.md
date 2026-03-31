@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy — Lexium Cards
+---
+
 # Privacy Policy
 
 **Last updated:** March 29, 2026
