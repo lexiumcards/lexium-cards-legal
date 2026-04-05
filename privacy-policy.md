@@ -5,7 +5,7 @@ title: Privacy Policy — Lexium Cards
 
 # Privacy Policy
 
-**Last updated:** March 29, 2026
+**Last updated:** April 6, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -52,8 +52,19 @@ Please do not use the App to store sensitive personal information (health data, 
 - Interface language preference
 - Active deck selection
 - Theme preference (light/dark)
+- Notification preferences (enabled/disabled, preferred hour)
+- Device timezone (for delivering notifications at the correct local time)
 
-### 1.5 Subscription and Purchase Data
+### 1.5 Push Notification Data
+
+If you enable push notifications, we collect:
+
+- **Push token** — a device-specific identifier issued by Apple Push Notification service (APNs) or Firebase Cloud Messaging (FCM), used solely to deliver notifications to your device
+- **Device timezone** — used to send notifications at your preferred local time
+
+Push tokens are not used for advertising, tracking, or any purpose other than delivering the notifications you opted into. If you disable notifications, your push token is immediately deleted from our database.
+
+### 1.6 Subscription and Purchase Data
 
 When you subscribe to a paid plan, we collect:
 
@@ -63,7 +74,7 @@ When you subscribe to a paid plan, we collect:
 
 This data is processed by RevenueCat, our third-party payment processor, for subscription management and receipt validation. We do not collect or store your payment method details (credit card numbers, billing address, etc.) — these are handled entirely by the App Store, Google Play, and RevenueCat.
 
-### 1.6 Usage Data and Analytics
+### 1.7 Usage Data and Analytics
 
 When you use the App in production, we collect pseudonymized usage data through Mixpanel:
 
@@ -73,7 +84,7 @@ When you use the App in production, we collect pseudonymized usage data through 
 
 Mixpanel data is processed on EU servers (api-eu.mixpanel.com).
 
-### 1.7 Diagnostics and Error Reporting
+### 1.8 Diagnostics and Error Reporting
 
 Through Sentry, we collect crash reports and error logs in production:
 
@@ -84,7 +95,7 @@ Through Sentry, we collect crash reports and error logs in production:
 
 This data is used solely to identify and fix bugs.
 
-### 1.8 Data Processed by AI Services
+### 1.9 Data Processed by AI Services
 
 When you use translation and vocabulary features, the text you submit is processed by:
 
@@ -94,11 +105,11 @@ When you use translation and vocabulary features, the text you submit is process
 
 This processing happens on our server (Supabase Edge Functions). The text you submit is sent to Google's APIs for processing. We cache AI responses on our server to improve performance and reduce repeated API calls. Cached data does not contain personally identifiable information — only the text content and its processed result.
 
-### 1.9 Locally Stored Data
+### 1.10 Locally Stored Data
 
 Some data is cached locally on your device for offline access and performance, including study data and user settings. This data remains on your device and is cleared when you log out or uninstall the App.
 
-### 1.10 Cookies and Tracking Technologies
+### 1.11 Cookies and Tracking Technologies
 
 The App does not use cookies or similar web-based tracking technologies. Authentication tokens and cached data are stored locally on your device using standard platform storage mechanisms.
 
@@ -116,6 +127,7 @@ We use your personal data for the following purposes:
 | Synthesize pronunciation audio                                                 | Text submitted by you                            | Performance of contract |
 | Manage subscriptions and validate purchases                                    | Purchase data (via RevenueCat)                   | Performance of contract |
 | Improve App quality and fix bugs                                               | Diagnostics data                                 | Legitimate interest     |
+| Send daily study reminder notifications (if enabled)                           | Push token, timezone, notification hour           | Consent                 |
 | Understand feature usage and improve the App                                   | Pseudonymized usage data (analytics)             | Legitimate interest     |
 | Respond to your inquiries                                                      | Contact information, communication content       | Legitimate interest     |
 | Comply with legal obligations                                                  | Account info, purchase info (when applicable)    | Legal obligation        |
@@ -164,6 +176,9 @@ We share data with the following third-party service providers:
 | **Mixpanel** (Mixpanel Inc.)          | Product analytics                               | Pseudonymized usage events, user identifier | [mixpanel.com/legal/privacy-policy](https://mixpanel.com/legal/privacy-policy/)                    |
 | **RevenueCat** (RevenueCat Inc.)      | Subscription management and receipt validation  | Transaction IDs, subscription status, platform | [revenuecat.com/privacy](https://www.revenuecat.com/privacy)                                       |
 | **Google Cloud AI** (Google LLC)      | Translation, word analysis (Gemini), TTS        | Text content submitted by user              | [cloud.google.com/terms/cloud-privacy-notice](https://cloud.google.com/terms/cloud-privacy-notice) |
+| **Firebase Cloud Messaging** (Google LLC) | Push notification delivery (Android)       | Push token                                  | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)                 |
+| **Apple Push Notification service** (Apple Inc.) | Push notification delivery (iOS)    | Push token                                  | [apple.com/privacy](https://www.apple.com/privacy/)                                                |
+| **Expo** (650 Industries Inc.)        | Push notification routing                       | Push token                                  | [expo.dev/privacy](https://expo.dev/privacy)                                                       |
 
 All third-party providers are either located in the EEA, covered by EU adequacy decisions, or operate under Standard Contractual Clauses (SCCs) or the EU-U.S. Data Privacy Framework.
 
