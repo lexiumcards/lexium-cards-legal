@@ -5,7 +5,7 @@ title: Terms of Use — Lexium Cards
 
 # Terms of Use
 
-**Last updated:** March 29, 2026
+**Last updated:** May 23, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -146,7 +146,9 @@ title: Terms of Use — Lexium Cards
 
   9.3. The App depends on third-party services (Supabase, Google APIs, Mixpanel, Sentry, etc.). We are not responsible for their availability, performance, or any changes they make to their services.
 
-  9.4. If you are an EU consumer using paid Premium features, your statutory rights under applicable consumer protection laws (including the EU Digital Content Directive 2019/770) are not affected by this disclaimer. You retain all mandatory consumer rights provided by the law of your country of residence.
+  9.4. **Embedded video content.** The in-app library includes videos hosted by YouTube and played via Google's official embedded IFrame player. We do not host, control, or modify these videos and we are not responsible for their availability, accuracy, or content. By watching an embedded video you also agree to YouTube's [Terms of Service](https://www.youtube.com/t/terms) and Google's [Privacy Policy](https://policies.google.com/privacy). Videos may be removed by YouTube at any time without notice.
+
+  9.5. If you are an EU consumer using paid Premium features, your statutory rights under applicable consumer protection laws (including the EU Digital Content Directive 2019/770) are not affected by this disclaimer. You retain all mandatory consumer rights provided by the law of your country of residence.
 
 ---
 

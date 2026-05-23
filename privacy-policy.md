@@ -5,7 +5,7 @@ title: Privacy Policy — Lexium Cards
 
 # Privacy Policy
 
-**Last updated:** April 6, 2026
+**Last updated:** May 23, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -179,6 +179,9 @@ We share data with the following third-party service providers:
 | **Firebase Cloud Messaging** (Google LLC) | Push notification delivery (Android)       | Push token                                  | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)                 |
 | **Apple Push Notification service** (Apple Inc.) | Push notification delivery (iOS)    | Push token                                  | [apple.com/privacy](https://www.apple.com/privacy/)                                                |
 | **Expo** (650 Industries Inc.)        | Push notification routing                       | Push token                                  | [expo.dev/privacy](https://expo.dev/privacy)                                                       |
+| **YouTube** (Google LLC)              | Embedded video playback in the in-app library   | IP address, device info, viewing activity, YouTube cookies (if signed in) | [policies.google.com/privacy](https://policies.google.com/privacy)                                 |
+
+When you play a video in the in-app library, the player is loaded directly from YouTube via Google's embedded IFrame. We do not control or receive the data YouTube collects during playback — it is governed by Google's Privacy Policy linked above. If you are signed into your Google account in the device's webview, YouTube may associate the playback with your account.
 
 All third-party providers are either located in the EEA, covered by EU adequacy decisions, or operate under Standard Contractual Clauses (SCCs) or the EU-U.S. Data Privacy Framework.
 
