@@ -5,7 +5,7 @@ title: Privacy Policy — Lexium Cards
 
 # Privacy Policy
 
-**Last updated:** May 23, 2026
+**Last updated:** June 14, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -46,10 +46,12 @@ Please do not use the App to store sensitive personal information (health data, 
 - Daily study scores and streaks
 - Card review history (iterations, review timestamps)
 - Session activity
+- Onboarding and tutorial progress (which in-app guidance steps you have completed)
 
 ### 1.4 User Settings
 
 - Interface language preference
+- Daily study intensity (new cards per day)
 - Active deck selection
 - Theme preference (light/dark)
 - Notification preferences (enabled/disabled, preferred hour)

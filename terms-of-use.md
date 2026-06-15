@@ -5,7 +5,7 @@ title: Terms of Use — Lexium Cards
 
 # Terms of Use
 
-**Last updated:** May 23, 2026
+**Last updated:** June 12, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -92,7 +92,7 @@ title: Terms of Use — Lexium Cards
 
 ## 6. Intellectual Property
 
-6.1. The App, including its design, code, graphics, articles, AI-generated content, audio files, and all other materials, is the intellectual property of Yurii Dobrovolskyi and is protected by copyright and other intellectual property laws.
+6.1. The App, including its design, code, graphics, articles, AI-generated content, audio files, and all other materials created by us, is the intellectual property of Yurii Dobrovolskyi and is protected by copyright and other intellectual property laws. This does not extend to third-party content described in section 6.5.
 
 6.2. You may not:
 
@@ -105,6 +105,8 @@ title: Terms of Use — Lexium Cards
   6.3. Articles and reading materials provided in the App are created by or licensed to us. Unauthorized reproduction or distribution is prohibited.
 
   6.4. **IP infringement claims.** Should a third party claim that the App or your use of the App infringes their intellectual property rights, we are solely responsible for the investigation, defense, settlement, and discharge of any such claim. Store operators (Apple, Google) have no responsibility for IP infringement claims related to the App.
+
+  6.5. **Third-party content.** The in-app library includes content owned by third parties — embedded YouTube videos and the subtitles and transcripts associated with them, displayed for language-learning purposes. Such content remains the intellectual property of its respective rights holders, and nothing in these Terms grants you or us any ownership of it. Your use of third-party content is limited to viewing it within the App. See also section 9.4 regarding embedded video content.
 
 ---
 
