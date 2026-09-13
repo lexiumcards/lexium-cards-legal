@@ -5,7 +5,7 @@ title: Privacy Policy — Lexium Cards
 
 # Privacy Policy
 
-**Last updated:** June 14, 2026
+**Last updated:** September 13, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -99,11 +99,11 @@ This data is used solely to identify and fix bugs.
 
 ### 1.9 Data Processed by AI Services
 
-When you use translation and vocabulary features, the text you submit is processed by:
+When you use translation, vocabulary and practice features, the text you submit is processed by:
 
-- **Google Gemini** — for word analysis, translation variants, and category classification
+- **Google Gemini** — for word analysis, translation variants, category classification, and practice texts (short reading texts generated from the words you have mastered, together with their translation)
 - **Google Cloud Translation** — for quick translations
-- **Google Cloud Text-to-Speech** — for word pronunciation audio
+- **Google Cloud Text-to-Speech** — for word pronunciation audio and reading practice texts aloud
 
 This processing happens on our server (Supabase Edge Functions). The text you submit is sent to Google's APIs for processing. We cache AI responses on our server to improve performance and reduce repeated API calls. Cached data does not contain personally identifiable information — only the text content and its processed result.
 

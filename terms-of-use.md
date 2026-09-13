@@ -5,7 +5,7 @@ title: Terms of Use — Lexium Cards
 
 # Terms of Use
 
-**Last updated:** June 12, 2026
+**Last updated:** September 13, 2026
 
 **Developer:** Yurii Dobrovolskyi ("we", "us", "our")
 
@@ -112,9 +112,9 @@ title: Terms of Use — Lexium Cards
 
 ## 7. AI-Powered Features
 
-7.1. The App uses artificial intelligence services (Google Gemini, Google Cloud Translation, Google Cloud Text-to-Speech) to provide translations, word analysis, and pronunciation.
+7.1. The App uses artificial intelligence services (Google Gemini, Google Cloud Translation, Google Cloud Text-to-Speech) to provide translations, word analysis, pronunciation, and practice texts generated from the words you have mastered.
 
-7.2. AI-generated content is provided "as is" and may contain inaccuracies. We do not guarantee the accuracy, completeness, or reliability of AI-generated translations, word analyses, or pronunciations.
+7.2. AI-generated content is provided "as is" and may contain inaccuracies. We do not guarantee the accuracy, completeness, or reliability of AI-generated translations, word analyses, pronunciations, or practice texts.
 
 7.3. You should not rely on AI-generated content as the sole source of information for critical or professional purposes.
 
